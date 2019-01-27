@@ -2,7 +2,7 @@
 
 ## Technologies Used
 
-- .Net Core 2.0
+- .Net Core 2.0.9
 - XUnit
 
 ## Endpoint examples
